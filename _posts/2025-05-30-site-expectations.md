@@ -3,6 +3,7 @@ title: Site Expectations
 date: 2025-05-30 20:00:00 -400
 categories: [misc, information]
 tags: [general, info]
+toc: false
 ---
 
 # What to expect from this site?
