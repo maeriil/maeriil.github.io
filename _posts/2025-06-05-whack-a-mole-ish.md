@@ -2,8 +2,8 @@
 title: Site Expectations
 date: 2025-05-30 20:00:00 -400
 categories: [devlog, gamedev]
-tags: [game]
-toc: true
+tags: [general, info]
+toc: false
 ---
 
 ## Whack-a-mole like project
