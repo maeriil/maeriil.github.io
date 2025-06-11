@@ -1,8 +1,8 @@
 ---
 title: "Rouber-Eats Features"
 date: 2025-05-30
-categories: [portfolio]
-tags: [game, delivery, casual, food, ui, icons]
+categories: [portfolio, casual, food, ui, icons]
+tags: [game, delivery]
 ---
 ### Overview
 

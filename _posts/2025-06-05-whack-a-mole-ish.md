@@ -1,7 +1,7 @@
 ---
 title: Site Expectations
 date: 2025-05-30 20:00:00 -400
-categories: [break-n-rush, whack-a-mole, game-dev, dev-log]
+categories: [devlog, gamedev]
 tags: [game]
 toc: true
 ---
